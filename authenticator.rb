@@ -17,7 +17,7 @@ def authenticator (name, psw, users)
 end
 
 #boh
-attemps = 0
+attemps = 1
 flag = false
 while attemps < 4
     print 'inserisci username: '
