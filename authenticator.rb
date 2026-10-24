@@ -16,7 +16,7 @@ def authenticator (name, psw, users)
     return flag
 end
 
-#commento da staging pt.2
+#commento da preview
 attemps = 0
 flag = false
 while attemps < 4
